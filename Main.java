@@ -26,7 +26,7 @@ public class Main
         }
     }
 
-  	public static void main(String[] args) {
+    public static void main(String[] args) {
         Object[] values = new Object[4];
         values[0] = new Integer("2");
         values[1] = new Double("3.5");
